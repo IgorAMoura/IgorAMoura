@@ -7,6 +7,6 @@
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>     
           
-- 🔭 Atualmente estou buscando começar a trabalhar como freelancer utilizando o qe aprendi ao longo do meu curso.
+- 🔭 Atualmente estou buscando começar a trabalhar como freelancer e quando possível, alcançar independência.
 - 🌱 Estou estudando no SENAI "Paulo Antonio Skaf", estou aprendendo a utilizar Java Script e em breve, estarei vendo conteúdo sobre Mídias Sociais.
 
